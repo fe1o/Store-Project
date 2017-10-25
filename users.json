@@ -1,0 +1,5 @@
+{"email":"tk@exemple.com","name":"Tarkus","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"fuikay@exemple.com","name":"Fuikay","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"cleyson@exemple.com","name":"Kureusoru","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"arefu@exemple.com","name":"Arefu","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"vitola@exemple.com","name":"Vitola","permissions":{"accounts":"read","policies":"write","users":"write"}}
